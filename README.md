@@ -31,3 +31,7 @@ You can also refresh your statistics with the following online courses:
  - [Intro to descriptive statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
  - [Statistics tutorial](https://compneuro.neuromatch.io/tutorials/W0D5_Statistics/chapter_title.html) at the [Neuromatch Academy](https://academy.neuromatch.io/about), tutorials with videos
 
+## Assignment 0: coding in Python
+
+- First steps: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A0_PythonBasics/Assignment0.ipynb)
+- Second steps (optional!): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A0_PythonBasics/Assignment0-2.ipynb)
