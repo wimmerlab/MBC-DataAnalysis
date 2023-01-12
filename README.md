@@ -35,6 +35,7 @@ You can also refresh your statistics with the following online courses:
 
 - First steps: [Notebook](A0_PythonBasics/Assignment0.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A0_PythonBasics/Assignment0.ipynb)
 - Second steps (optional!):[Notebook](A0_PythonBasics/Assignment0-2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A0_PythonBasics/Assignment0-2.ipynb)
+- [Slides from the first class](slides/intro.pdf)
 
 ## Assignment 1: descriptive statistics, parametric vs non-parametric methods & linear regression
 In this assignment, we will see:
