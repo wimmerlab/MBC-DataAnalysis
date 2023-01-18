@@ -61,3 +61,6 @@ The following resources will help you to get ready to complete this assignment.
     <li>Read <a href="https://doi.org/10.1152/jn.00362.2015" target="_blank">this paper</a> (focussing on Experiment 2) to understand the logic of the experimental data that we will analyze</li>
 </ul>
 </div>
+
+- First part: descriptive statistics and hypothesis tests [Notebook](A1_LinearRegression/Assignment1A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A1_LinearRegression/Assignment1A.ipynb)
+- 
