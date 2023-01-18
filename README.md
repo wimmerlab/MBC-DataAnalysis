@@ -50,7 +50,7 @@ In this assignment, we will see:
 
 The following resources will help you to get ready to complete this assignment. 
 <ul>
-    <li>Watch <a href="http://youtu.be/5q-Ws4y8JE4" target="_blank">this video</a> (here the <a href="" target="_blank">notes</a> and <a href="https://www.cmrr.umn.edu/~kendrick/statsmatlab/StatsLecture2Slides_Hypothesis.pdf" target="_blank">slides</a>) only until time stamp 23:08 (stop right after permutation tests) in order to learn about:</li>
+    <li>Watch <a href="http://youtu.be/5q-Ws4y8JE4" target="_blank">this video</a> (here the <a href="https://www.cmrr.umn.edu/~kendrick/statsmatlab/StatsLecture2Slides_Hypothesis.pdf" target="_blank">slides</a>) only until time stamp 23:08 (stop right after permutation tests) in order to learn about:</li>
     <ul>
         <li>the logic of t-tests to test the hypothesis that two samples have the same mean</li>
         <li>the non-parametric equivalent in permutation tests. Make sure you understand this logic</li>
