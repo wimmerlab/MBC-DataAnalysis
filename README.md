@@ -63,4 +63,5 @@ The following resources will help you to get ready to complete this assignment.
 </div>
 
 - First part: descriptive statistics and hypothesis tests [Notebook](A1_LinearRegression/Assignment1A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A1_LinearRegression/Assignment1A.ipynb)
-- 
+
+- Second part: linear regression [Notebook](A1_LinearRegression/Assignment1B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A1_LinearRegression/Assignment1B.ipynb) 
