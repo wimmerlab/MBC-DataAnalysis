@@ -66,6 +66,8 @@ The following resources will help you to get ready to complete this assignment.
 
 - Second part: linear regression [Notebook](A1_LinearRegression/Assignment1B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A1_LinearRegression/Assignment1B.ipynb) Solution [Notebook](A1_LinearRegression/Assignment1B_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A1_LinearRegression/Assignment1B_solutions.ipynb)
 
+For an explanation and examples how a QQ-Plot looks for non-normal data, see for example this [blog post](https://towardsdatascience.com/q-q-plots-explained-5aa8495426c0).
+
 
 ## Assignment 2: psychometric curves, logistic regression and interaction terms
 
