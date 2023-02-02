@@ -62,9 +62,9 @@ The following resources will help you to get ready to complete this assignment.
 </ul>
 </div>
 
-- First part: descriptive statistics and hypothesis tests [Notebook](A1_LinearRegression/Assignment1A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A1_LinearRegression/Assignment1A.ipynb)
+- First part: descriptive statistics and hypothesis tests [Notebook](A1_LinearRegression/Assignment1A.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A1_LinearRegression/Assignment1A.ipynb) Solution [Notebook](A1_LinearRegression/Assignment1A_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A1_LinearRegression/Assignment1A_solutions.ipynb)
 
-- Second part: linear regression [Notebook](A1_LinearRegression/Assignment1B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A1_LinearRegression/Assignment1B.ipynb) 
+- Second part: linear regression [Notebook](A1_LinearRegression/Assignment1B.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A1_LinearRegression/Assignment1B.ipynb) Solution [Notebook](A1_LinearRegression/Assignment1B_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A1_LinearRegression/Assignment1B_solutions.ipynb)
 
 
 ## Assignment 2: psychometric curves, logistic regression and interaction terms
