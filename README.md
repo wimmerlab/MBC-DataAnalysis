@@ -8,6 +8,7 @@
  - [Assignment 1](A1_LinearRegression/): Linear regression]descriptive statistics, parametric vs non-parametric methods & linear regression
  - [Assignment 2](A2_LogisticRegression/): Psychometric curves & logistic regression
  - [Assignment 3](A3_ModelComparison/): Parameter uncertainty, bias-variance trade-off, model comparison
+ - [Assignment 4](A4_SpikeTrainAnalysis/): Spike train analysis (rastergram, PSTH, ISI distribution, Fano Factor, auto-/cross-correlation, Poisson GLM
  
  # Before the course
  
