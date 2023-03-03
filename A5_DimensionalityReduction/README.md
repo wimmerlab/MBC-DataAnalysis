@@ -1,9 +1,24 @@
-# Assignment 3: Parameter uncertainty & Model Comparison
+## Assignment 5: Dimensionality reduction
 
-The following resources will help you to get ready to complete this assignment. <br>
-Watch <a href="https://youtu.be/9JfXKmVB6qc?t=910" target="_blank">the second part of this video</a> to have a quick overview of how to assess model fits. Remember that all types of regression analysis and statistical test can be seen as testing how well a generative model (i.e. a linear model with noise) can explain your data. Then watch these series of short videos on more specific topics (all these videos are taken from the <a href="https://compneuro.neuromatch.io/tutorials/W1D2_ModelFitting/chapter_title.html" target="_blank">tutorials of the Model Fitting day at Neuromatch Academy</a>):
-        <li><a href="https://youtu.be/hs6bVGQNSIs" target="_blank">this video</a> on bootstrapping the estimate the confidence intervals for your model parameters</li>
-        <li> <a href="https://youtu.be/NcUH_seBcVw" target="_blank">this video</a> on the bias-variance trade-off, which provides the conceptual basis for model selection, i.e. finding a model that fits the data well while keeping model complexity as low as possible. For statistical analysis, this is equivalent to look for the significant effects as components that we must include in the model in order to capture the structure of the data.</li>
-        <li> <a href="https://youtu.be/OtKw0rSRxo4" target="_blank">this video</a> about how to perform model comparison in practice by testing the model on a test set (i.e. a part of the dataset that was not used for estimating the parameters), and how this is generalized in <b>cross-validation</b></li>
+**In this assignment, we will see how to analyze high-dimensional neural data:**
+- basics of **principal component analysis (PCA)**
+- dimensionality reduction with PCA
+- as application, we will use a neural data recorded from monkey prefrontal cortex during a working memory task
+- finally, we will decode the memorized cue from the monkey's brain activity 
 
-Here is the assignment: [Notebook](Assignment3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahyafil/MBC-DataAnalysis/blob/main/A3_ModelComparison/Assignment3.ipynb) 
+<div class="alert alert-block alert-warning">
+<b>Preparing for this assignment:</b> 
+
+The <a href="https://compneuro.neuromatch.io/tutorials/W1D4_DimensionalityReduction/student/W1D4_Intro.html" target="_blank">material from the Neuromatch Academy Summer School</a> is a great resource if you want to dive deeper into this topic. 
+The following resources will help you to get ready to complete this assignment. 
+<ul>
+    <li>Watch <a href="https://youtube.com/watch?v=zeBFyRaoVnQ" target="_blank">this video</a> (until to 23:15 min) as an introductoin to dimensionality reduction in neuroscience. You will learn that dimensionality reduction is a machine learning technique for transforming data from a high-dimensional space into a lower-dimensional space. In the video, Byron Yu introduces you to the basic concepts of dimensionality reduction and discusses how it is used to investigate the possible underlying low-dimensional structure of neural population activity.
+    <li>This <a href="https://youtube.com/watch?v=-f6T9--oM0E" target="_blank">video</a> from the Neuromatch summer school explains the mathematical basis of PCA. If necessary, refresh your knowledge about covariance matrices and eigenvalues (this is not a maths course but it will help you to get a better intuition how PCA works).
+        <li>Check out these sites to gain intuition on what PCA is and is used for: 
+    <ul>
+        <li>https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c</li>
+        <li>https://setosa.io/ev/principal-component-analysis/</li>
+    </ul>
+</ul>
+</div>
+
