@@ -9,6 +9,7 @@
  - [Assignment 2](A2_LogisticRegression/): Psychometric curves & logistic regression
  - [Assignment 3](A3_ModelComparison/): Parameter uncertainty, bias-variance trade-off, model comparison
  - [Assignment 4](A4_SpikeTrainAnalysis/): Spike train analysis (rastergram, PSTH, ISI distribution, Fano Factor, auto-/cross-correlation, Poisson GLM
+ - [Assignment 5](A5_DimensionalityReduction/): Dimensionality reduction, Principial Component Analysis
  
  # Before the course
  
