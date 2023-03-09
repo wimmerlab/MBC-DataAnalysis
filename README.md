@@ -10,6 +10,8 @@
  - [Assignment 3](A3_ModelComparison/): Parameter uncertainty, bias-variance trade-off, model comparison
  - [Assignment 4](A4_SpikeTrainAnalysis/): Spike train analysis (rastergram, PSTH, ISI distribution, Fano Factor, auto-/cross-correlation, Poisson GLM
  - [Assignment 5](A5_DimensionalityReduction/): Dimensionality reduction, Principial Component Analysis
+ - [Journal Club](JournalClub/): journal club about data analysis in neuroscience
+
  
  # Before the course
  
