@@ -24,4 +24,4 @@ The following resources will help you to get ready to complete this assignment.
 
 - First part: PCA tutorial [Notebook](Assignment5_tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A5_DimensionalityReduction/Assignment5_tutorial.ipynb)
 
-- Second part: the assignment [Notebook](Assignment5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A5_DimensionalityReduction/Assignment5.ipynb)
+- Second part: the assignment [Notebook](Assignment5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A5_DimensionalityReduction/Assignment5.ipynb) Solutions [Notebook](Assignment5_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A5_DimensionalityReduction/Assignment5_solutions.ipynb)
