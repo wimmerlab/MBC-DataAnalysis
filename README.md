@@ -5,7 +5,7 @@
  # Assignments
  
  - [Assignment 0](A0_PythonBasics/): Coding in Python
- - [Assignment 1](A1_DescriptiveStatistics/): Descriptive statistics
+ - [Assignment 1](A1_Statistics/): Descriptive statistics, parametric vs non-parametric methods
  - [Assignment 2](A2_LinearRegression/): Parametric vs non-parametric methods & linear regression
  - [Assignment 3](A3_PsychometricCurves/): Psychometric curves
  - [Assignment 4](A4_LogisticRegression/): Logistic regression
