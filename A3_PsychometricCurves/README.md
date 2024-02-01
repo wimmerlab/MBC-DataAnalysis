@@ -23,6 +23,9 @@ The following resources will help you to get ready to complete this assignment.
 </ul>
 </div>
 
-- **Tutorial**: psychometric curves and maximum likelihood estimation [Notebook](tutorial_psychometric_curves.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A3_PsychometricCurves/tutorial_psychometric_curves.ipynb)
+- **Tutorial**: psychometric curves and maximum likelihood estimation [Notebook](tutorial_psychometric_curves.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A3_PsychometricCurves/tutorial_psychometric_curves.ipynb) Solutions: [Notebook](tutorial_psychometric_curves_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A3_PsychometricCurves/tutorial_psychometric_curves_solutions.ipynb) 
 
-- **Assignment**: psychometric curves and maximum likelihood estimation [Notebook](Assignment3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A3_PsychometricCurves/Assignment3.ipynb) [Solution](Assignment3_solutions.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/_solutions/MBC-DataAnalysis/blob/main/A3_PsychometricCurves/Assignment3_solutions.ipynb)
+- **Assignment**: psychometric curves and maximum likelihood estimation [Notebook](Assignment3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A3_PsychometricCurves/Assignment3.ipynb) Solutions: [Notebook](Assignment3_solutions.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A3_PsychometricCurves/Assignment3_solutions.ipynb)
+
+
+
