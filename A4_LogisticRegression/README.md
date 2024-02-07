@@ -15,4 +15,7 @@ The following resources will help you to get ready to complete this assignment.
 </ul>
 </div>
 
-- **Assignmentt**: logistic regression and generalized linear mixed models [Notebook](Assignment4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A2_LogisticRegression/Assignment4.ipynb)  [Solution](Assignment4_solutions.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A2_LogisticRegression/Assignment4_solutions.ipynb)
+
+- **Tutorial**: statistical interaction effects [Notebook](interaction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A4_LogisticRegression/interaction.ipynb) 
+
+- **Assignmentt**: logistic regression and generalized linear mixed models [Notebook](Assignment4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A2_LogisticRegression/Assignment4.ipynb)  [Solution](Assignment4_solutions.ipynb): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A4_LogisticRegression/Assignment4_solutions.ipynb)
