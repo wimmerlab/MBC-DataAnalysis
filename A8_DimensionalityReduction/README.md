@@ -22,6 +22,6 @@ The following resources will help you to get ready to complete this assignment.
 </ul>
 </div>
 
-- First part: PCA tutorial [Notebook](Assignment8_tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahyafil/MBC-DataAnalysis/blob/main/A8_DimensionalityReduction/Assignment8_tutorial.ipynb)
+- First part: PCA tutorial [Notebook](Assignment8_tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A8_DimensionalityReduction/Assignment8_tutorial.ipynb)
 
-- Second part: the assignment [Notebook](Assignment8_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahyafil/MBC-DataAnalysis/blob/main/A8_DimensionalityReduction/Assignment8_solutions.ipynb)
+- Second part: the assignment [Notebook](Assignment8_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wimmerlab/MBC-DataAnalysis/blob/main/A8_DimensionalityReduction/Assignment8.ipynb)
